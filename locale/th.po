@@ -1,0 +1,1757 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-06-30 13:17-0400\n"
+"PO-Revision-Date: 2008-10-26 12:49-0400\n"
+"Last-Translator: Manatsawin <manatsawin@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+############################################
+# FORMATTING
+############################################
+
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+msgid "Language-Name"
+msgstr "ไทย"
+
+# Directionality of language
+# LTR = Left to Right
+# RTL = Right to Left
+msgid "Language-Direction"
+msgstr "LTR"
+
+# Scale to apply to font size (2 for twice as large)
+# Use this if the font is too small for legibility on the Scratch interface
+msgid "Font-Scale"
+msgstr "1.5"
+
+# Set to 'true' or 'false'
+# Use this if you do not want any of the text to be bolded, for legibility
+msgid "Suppress-Bold"
+msgstr "false"
+
+# Font to use on a Windows system
+msgid "Win-Font"
+msgstr "Tahoma"
+
+# Font to use on a Mac system
+msgid "Mac-Font"
+msgstr "times"
+
+# Font to use on a Linux system
+msgid "Linux-Font"
+msgstr "Loma"
+
+############################################
+# BLOCKS
+############################################
+
+msgid "%H sensor value"
+msgstr "ค่าเซนเซอร์ %H"
+
+msgid "%a of %m"
+msgstr "%a ของ %m"
+
+msgid "%b and %b"
+msgstr "%b และ %b"
+
+msgid "%b or %b"
+msgstr "%b หรือ %b"
+
+msgid "%f of %n"
+msgstr "%f ของ %n"
+
+msgid "%n mod %n"
+msgstr "เศษของ %n หาร %n"
+
+msgid "add %s to %L"
+msgstr "บวก %s ไปยัง %L"
+
+msgid "background #"
+msgstr "พื้นหลัง #"
+
+msgid "broadcast %e"
+msgstr "ส่งกระจาย %e"
+
+msgid "broadcast %e and wait"
+msgstr "ส่งกระจาย %e และ รอ"
+
+msgid "change %g effect by %n"
+msgstr "เปลี่ยนเอฟเฟคของ %g ทีละ %n"
+
+msgid "change %v by %n"
+msgstr "เปลี่ยน %v ทีละ %n"
+
+msgid "change pen color by %n"
+msgstr "เปลี่ยนสีปากกาทีละ %n"
+
+msgid "change pen shade by %n"
+msgstr "เปลี่ยนความเข้มทีละ %n"
+
+msgid "change pen size by %n"
+msgstr "เปลี่ยนขนาดปากกาทีละ %n"
+
+msgid "change size by %n"
+msgstr "เปลี่ยนขนาดทีละ %n"
+
+msgid "change tempo by %n"
+msgstr "ปรับความเร็วทีละ %n"
+
+msgid "change volume by %n"
+msgstr "ปรับระดับเสียงทีละ %n"
+
+msgid "change x by %n"
+msgstr "เปลี่ยน x ทีละ %n"
+
+msgid "change y by %n"
+msgstr "เปลี่ยน y ทีละ %n"
+
+msgid "clear"
+msgstr "ล้าง"
+
+msgid "clear graphic effects"
+msgstr "ล้างเอฟเฟคภาพ"
+
+msgid "color %C is touching %C?"
+msgstr "สี %C สัมผัสกับสี %C?"
+
+msgid "control"
+msgstr "ควบคุม"
+
+msgid "costume #"
+msgstr "ชุด #"
+
+msgid "delete %y of %L"
+msgstr "ลบ %y ของ %L"
+
+msgid "direction"
+msgstr "ทิศทาง"
+
+msgid "distance to %m"
+msgstr "ระยะห่างจาก %m"
+
+# if ... then ... else ... ควรเป็น ถ้า ... จึง ... มิฉะนั้น ... แต่เกรงว่าภาษาจะยากไปหรือเปล่าครับ(ยังไงน่าจะดีกว่า อื่นๆ)
+msgid "else"
+msgstr "มิฉะนั้น"
+
+msgid "forever"
+msgstr "วนซ้ำตลอด"
+
+msgid "forever if %b"
+msgstr "วนซ้ำตลอดหาก %b"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "ไป %n วินาที ที่ x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "กลับไป %n ชั้น"
+
+msgid "go to %m"
+msgstr "ไปยัง %m"
+
+msgid "go to front"
+msgstr "ไปยังด้านหน้า"
+
+msgid "go to x:%n y:%n"
+msgstr "ไปยัง x:%n y:%n"
+
+msgid "hide"
+msgstr "ซ่อน"
+
+msgid "hide variable %v"
+msgstr "ซ่อนตัวแปร %v"
+
+msgid "if %b"
+msgstr "ถ้า %b"
+
+msgid "if on edge, bounce"
+msgstr "ถ้าชนขอบให้สะท้อนกลับ"
+
+msgid "insert %s at %i of %L"
+msgstr "แทรก %s ที่ %i ของ %L"
+
+msgid "item %i of %L"
+msgstr "รายการที่ %i ของ %L"
+
+msgid "key %k pressed?"
+msgstr "แป้น %k ถูกกด?"
+
+msgid "length of %L"
+msgstr "ความยาวของ %L"
+
+msgid "list"
+msgstr "รายการ"
+
+msgid "looks"
+msgstr "รูปร่าง"
+
+msgid "loud?"
+msgstr "เสียงดัง?"
+
+msgid "loudness"
+msgstr "ระดับความดัง"
+
+msgid "motion"
+msgstr "การเคลื่อนที่"
+
+msgid "mouse down?"
+msgstr "เมาส์ถูกกด?"
+
+msgid "mouse x"
+msgstr "ตำแหน่ง x ของเมาส์"
+
+msgid "mouse y"
+msgstr "ตำแหน่ง y ของเมาส์"
+
+msgid "move %n steps"
+msgstr "เคลื่อน %n ก้าว"
+
+msgid "next background"
+msgstr "พื้นหลังถัดไป"
+
+msgid "next costume"
+msgstr "ชุดถัดไป"
+
+msgid "not %b"
+msgstr "ไม่ %b"
+
+msgid "numbers"
+msgstr "ตัวเลข"
+
+msgid "pen"
+msgstr "ปากกา"
+
+msgid "pen down"
+msgstr "จรดปากกา"
+
+msgid "pen up"
+msgstr "ยกปากกาขึ้น"
+
+msgid "pick random %n to %n"
+msgstr "เลือกสุ่มจาก %n ถึง %n"
+
+msgid "play drum %D for %n beats"
+msgstr "เล่น กลอง %D เป็น %n จังหวะ"
+
+msgid "play note %N for %n beats"
+msgstr "เล่น โน้ต %N เป็น %n จังหวะ"
+
+msgid "play sound %S"
+msgstr "เล่นเสียง %S"
+
+msgid "play sound %S until done"
+msgstr "เล่นเสียง %S จนจบ"
+
+msgid "point in direction %d"
+msgstr "ชี้ไปที่ทิศทาง %d"
+
+msgid "point towards %m"
+msgstr "ชี้ไปทาง %m"
+
+msgid "repeat %n"
+msgstr "ทำซ้ำ %n"
+
+msgid "repeat until %b"
+msgstr "ทำซ้ำจน %b"
+
+msgid "replace item %i of %L with %s"
+msgstr "แทนที่รายการ %i ของ %L ด้วย %s"
+
+msgid "reset timer"
+msgstr "จับเวลาใหม่"
+
+msgid "rest for %n beats"
+msgstr "หยุด %n จังหวะ"
+
+msgid "round %n"
+msgstr "รอบที่ %n"
+
+msgid "say %s"
+msgstr "พูด %s"
+
+msgid "say %s for %n secs"
+msgstr "พูด %s เป็นเวลา %n วินาที"
+
+msgid "sensing"
+msgstr ""
+
+msgid "sensor %h?"
+msgstr "เซนเซอร์ %h?"
+
+msgid "set %g effect to %n"
+msgstr "ตั้งค่าเอฟเฟค %g ไปเป็น %n"
+
+msgid "set %v to %n"
+msgstr "ตั้งค่า %v ไปเป็น %n"
+
+msgid "set instrument to %I"
+msgstr "ตั้งค่าเครื่องดนตรีเป็น %I"
+
+msgid "set pen color to %c"
+msgstr "ตั้งค่าสีปากกาเป็น %c"
+
+msgid "set pen color to %n"
+msgstr "ตั้งค่าสีปากกาเป็น %n"
+
+msgid "set pen shade to %n"
+msgstr "ตั้งค่าความเข้มปากกาเป็น %n"
+
+msgid "set pen size to %n"
+msgstr "ตั้งค่าขนาดปากกาเป็น %n"
+
+msgid "set size to %n%"
+msgstr "ตั้งค่าขนาดเป็น %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "ตั้งค่าความเร็วไปเป็น %n bpm"
+
+msgid "set volume to %n%"
+msgstr "ตั้งค่าระดับเสียงเป็น %n%"
+
+msgid "set x to %n"
+msgstr "ตั้งค่า x เป็น %n"
+
+msgid "set y to %n"
+msgstr "ตั้งค่า y เป็น %n"
+
+msgid "show"
+msgstr "แสดง"
+
+msgid "show variable %v"
+msgstr "แสดงตัวแปร %v"
+
+msgid "size"
+msgstr "ขนาด"
+
+msgid "sound"
+msgstr "เสียง"
+
+msgid "stamp"
+msgstr "ประทับ"
+
+msgid "stop all"
+msgstr "หยุด ทั้งหมด"
+
+msgid "stop all sounds"
+msgstr "หยุดเสียงทั้งหมด"
+
+msgid "stop script"
+msgstr "หยุดสคริปต์"
+
+msgid "switch to background %l"
+msgstr "สลับพื้นหลังไปเป็น %l"
+
+msgid "switch to costume %l"
+msgstr "สลับชุดไปเป็น %l"
+
+msgid "tempo"
+msgstr "จังหวะ"
+
+msgid "think %s"
+msgstr "คิด %s"
+
+msgid "think %s for %n secs"
+msgstr "คิด %s เป็นเวลา %n วินาที"
+
+msgid "timer"
+msgstr "จับเวลา"
+
+msgid "touching %m?"
+msgstr "สัมผัส %m?"
+
+msgid "touching color %C?"
+msgstr "สัมผัสสี %C?"
+
+msgid "turn %n degrees"
+msgstr "เลี้ยว %n องศา"
+
+msgid "variables"
+msgstr "ตัวแปร"
+
+msgid "volume"
+msgstr "ระดับเสียง"
+
+msgid "wait %n secs"
+msgstr "รอ %n วินาที"
+
+msgid "wait until %b"
+msgstr "รอจนกระทั้ง %b"
+
+msgid "when %k key pressed"
+msgstr "เมื่อคีย์ %k ถูกกด"
+
+msgid "when %m clicked"
+msgstr "เมื่อ %m ถูกคลิก"
+
+msgid "when I receive %e"
+msgstr "เมื่อได้รับ %e"
+
+msgid "x position"
+msgstr "ตำแหน่ง x "
+
+msgid "y position"
+msgstr "ตำแหน่ง y"
+
+############################################
+# USER INTERFACE
+############################################
+
+msgid "(empty)"
+msgstr "(ว่างเปล่า)"
+
+#, fuzzy
+msgid "1 script"
+msgstr "1 สคริปต์"
+
+msgid "About Scratch"
+msgstr "เกี่ยวกับ Scratch"
+
+msgid "About this project:"
+msgstr "เกี่ยวกับโครงการนี้:"
+
+msgid "about..."
+msgstr "เกี่ยวกับ..."
+
+msgid "abs"
+msgstr "ค่าสัมบูรณ์"
+
+msgid "Access the Scratch help system"
+msgstr "เข้าสู่ระบบช่วยเหลือ ของ Scratch"
+
+msgid "add comment"
+msgstr "เพิ่มข้อคิดเห็น"
+
+msgid "add comment here"
+msgstr "เพิ่มข้อคิดเห็นที่นี่"
+
+msgid "all"
+msgstr "ทั้งหมด"
+
+msgid "and"
+msgstr "และ"
+
+msgid "any"
+msgstr "อะไรก็ได้"
+
+msgid "background"
+msgstr "พื้นหลัง"
+
+msgid "backgrounds"
+msgstr "พื้นหลัง"
+
+msgid "Backgrounds"
+msgstr "พื้นหลัง"
+
+msgid "brightness"
+msgstr "ความสว่าง"
+
+msgid "Brush size: "
+msgstr "ขนาดแปรง"
+
+msgid "button"
+msgstr "ปุ่ม"
+
+msgid "button pressed"
+msgstr "ปุ่มที่ถูกกด"
+
+msgid "can rotate"
+msgstr "หมุนได้"
+
+msgid "Cancel"
+msgstr "ยกเลิก"
+
+msgid "cancel"
+msgstr "ยกเลิก"
+
+msgid "Choose a folder"
+msgstr "เลือกแฟ้ม"
+
+msgid "Choose new sprite from file"
+msgstr "เลือกภาพใหม่จากแฟ้ม"
+
+msgid "clean up"
+msgstr "ล้าง"
+
+msgid "Clear"
+msgstr "ล้าง"
+
+# canvas?
+#, fuzzy
+msgid "Clear canvas"
+msgstr "ล้าง"
+
+msgid "Close dialog?"
+msgstr "ปิดกล่องโต้ตอบ?"
+
+msgid "Close paint editor?"
+msgstr "ปิดเครื่องมือวาดภาพ?"
+
+msgid "close port"
+msgstr "ปิดพอร์ต"
+
+msgid "Close sound recorder?"
+msgstr "ปิดเครื่องอัดเสียง?"
+
+msgid "color"
+msgstr "สี"
+
+msgid "compress images"
+msgstr "บีบอัดรูปภาพ"
+
+msgid "compress sounds"
+msgstr "บีบอัดเสียง"
+
+msgid "Compress sounds and images"
+msgstr "บีบอัดเสียงและภาพ"
+
+msgid "Computer"
+msgstr "คอมพิวเตอร์"
+
+msgid "connected"
+msgstr "เชื่อมต่อแล้ว"
+
+msgid "Connecting to "
+msgstr "กำลังเชื่อมต่อไปยัง"
+
+msgid "Copy"
+msgstr "คัดลอก"
+
+msgid "costume"
+msgstr "ชุด"
+
+msgid "costumes"
+msgstr "ชุด"
+
+msgid "Costumes"
+msgstr "ชุด"
+
+msgid "Could not read"
+msgstr "ไม่สามารถอ่านได้"
+
+msgid "Could not read project; file may be damaged"
+msgstr "ไม่สามารถเปิดโครงการได้ แฟ้มอาจเสียหาย"
+
+msgid "Could not write file"
+msgstr "ไม่สามารถเขียนได้"
+
+msgid "Create account"
+msgstr "สร้างบัญชีผู้ใช้"
+
+msgid "Create an empty project"
+msgstr "สร้างโครงการเปล่า"
+
+msgid "Data sent. Waiting for response..."
+msgstr "ข้อมูลถูกส่ง กำลังรอการตอบรับ"
+
+msgid "delete"
+msgstr "ลบ"
+
+msgid "Delete"
+msgstr "ลบ"
+
+msgid "Delete a list"
+msgstr "ลบรายการ"
+
+msgid "Delete a variable"
+msgstr "ลบตัวแปร"
+
+msgid "Delete this costume"
+msgstr "ลบชุดนี้"
+
+msgid "Delete this sound"
+msgstr "ลบเสียงนี้"
+
+msgid "Desktop"
+msgstr "พื้นโต๊ะ"
+
+msgid "Documents"
+msgstr "เอกสาร"
+
+msgid "don't rotate"
+msgstr "ไม่ต้องหมุน"
+
+msgid "down"
+msgstr "ลง"
+
+msgid "down arrow"
+msgstr "ลูกศรชี้ลง"
+
+msgid "draggable on website?"
+msgstr "สามารถลากบนเว็บไซต์?"
+
+msgid "duplicate"
+msgstr "ทำซ้ำ"
+
+msgid "Duplicate"
+msgstr "ทำซ้ำ"
+
+msgid "edge"
+msgstr "ขอบ"
+
+msgid "Edit"
+msgstr "แก้ไข"
+
+msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
+msgstr "เครื่องมือวงรี (วาดโครงเส้น หรือรูป ของวงรี หรือ วงกลม)"
+
+msgid "enable remote sensor connections"
+msgstr "เปิดการเชื่อมต่อเซนเซอร์ระยะไกล"
+
+msgid "Enter presentation mode"
+msgstr "เข้าสู่โหมดการนำเสนอ"
+
+msgid "Eraser"
+msgstr "ยางลบ"
+
+msgid "Eraser size"
+msgstr "ขนาดยางลบ"
+
+msgid "Exit presentation mode"
+msgstr "ออกจากโหมดการนำเสนอ"
+
+msgid "export"
+msgstr "ส่งออก"
+
+msgid "Export Background"
+msgstr "ส่งออก พื้นหลัง"
+
+msgid "Export Costume"
+msgstr "ส่งออก ชุด"
+
+msgid "Export failed"
+msgstr "การส่งออกล้มเหลว"
+
+msgid "Export Sound"
+msgstr "ส่งออกเสียง"
+
+msgid "Export Sprite"
+msgstr "ส่งออกภาพ"
+
+msgid "export this sprite"
+msgstr "ส่งออกภาพนี้"
+
+msgid "Extras"
+msgstr "พิเศษ"
+
+msgid "Extras menu"
+msgstr "เมนูพิเศษ"
+
+msgid "Eyedropper tool (select a color)"
+msgstr "เครื่องมือดรอปเปอร์ (เลือกสี)"
+
+msgid "Failed:"
+msgstr "ล้มเหลว"
+
+msgid "false"
+msgstr "ผิด"
+
+msgid "File not found"
+msgstr "ไม่พบไฟล์"
+
+msgid "Fill tool (fill areas with color or gradient)"
+msgstr "เครื่องมือเติมสี (เติมพื้นที่ด้วยสี หรือโทนสีไล่ระดับ )"
+
+#, fuzzy
+msgid "first"
+msgstr "แรก"
+
+msgid "fisheye"
+msgstr "ตาปลา"
+
+#, fuzzy
+msgid "Flash blocks (fast)"
+msgstr "บล็อคแฟลช (เร็ว)"
+
+#, fuzzy
+msgid "Flash blocks (slow)"
+msgstr "บล็อคแฟลช (ช้า)"
+
+msgid "Flip horizontally"
+msgstr "พลิกในแนวนอน"
+
+msgid "Flip vertically"
+msgstr "พลิกในแนวตั้ง"
+
+msgid "For all sprites"
+msgstr "สำหรับภาพทั้งหมด"
+
+msgid "For this sprite only"
+msgstr "สำหรับภาพนี้เท่านั้น"
+
+msgid "Get surprise sprite"
+msgstr ""
+
+msgid "Get the last thing deleted"
+msgstr "เอาสิ่งที่ถูกลบล่าสุด"
+
+# effect ghost จากการใช้งานคือทำให้ภาพโปรงใสครับ
+msgid "ghost"
+msgstr "ล่องหน"
+
+msgid "grab screen region for new costume"
+msgstr "จับส่วนหนึ่งของจอเพื่อเป็นชุดใหม่"
+
+msgid "grab screen region for new sprite"
+msgstr "จับส่วนหนึ่งของจอเพื่อเป็นภาพใหม่"
+
+msgid "Grow"
+msgstr "ขยาย"
+
+msgid "Grow sprite"
+msgstr "ขยายภาพ"
+
+msgid "Hello!"
+msgstr "สวัสดี!"
+
+msgid "help"
+msgstr "ช่วยเหลือ"
+
+msgid "High (biggest)"
+msgstr "สูง (ใหญ่ที่สุด)"
+
+msgid "Hmm..."
+msgstr "อืมม..."
+
+# หน้าแรก?
+#, fuzzy
+msgid "Home"
+msgstr "บ้าน"
+
+msgid "Images compressed"
+msgstr "ภาพถูกบีบอัด"
+
+msgid "import"
+msgstr "นำเข้า"
+
+msgid "Import"
+msgstr "นำเข้า"
+
+#, fuzzy
+msgid "Import an image on top of your current canvas"
+msgstr "นำเข้าภาพใหม่บน canvas ปัจจุบันของคุณ"
+
+msgid "Import Background"
+msgstr "นำเข้า พื้นหลัง"
+
+msgid "Import Costume"
+msgstr "นำเข้า ชุด"
+
+msgid "Import Image"
+msgstr "นำเข้า รูปภาพ"
+
+msgid "Import List"
+msgstr "นำเข้ารายการ"
+
+msgid "Import Project"
+msgstr "นำเข้าโครงการ"
+
+msgid "import project"
+msgstr "นำเข้าโครงการ"
+
+msgid "Import Sound"
+msgstr "นำเข้า เสียง"
+
+msgid "Incompatible Scratch file format"
+msgstr "รูปแบบไฟล์ที่ไม่เข้ากันกับ Scratch"
+
+msgid "Is the folder read-only?"
+msgstr "โฟลเดอร์นี้อ่านได้อย่างเดียวหรือไม่?"
+
+msgid "JPEG Quality (10-100)?"
+msgstr "คุณภาพ JPEG (10-100)?"
+
+msgid "kbytes"
+msgstr "กิโลไบต์"
+
+msgid "Language"
+msgstr "ภาษา"
+
+msgid "large readout"
+msgstr ""
+
+#, fuzzy
+msgid "last"
+msgstr "ล่าสุด"
+
+msgid "left"
+msgstr "ซ้าย"
+
+msgid "left arrow"
+msgstr "ลูกศรชี้ทางซ้าย"
+
+msgid "length"
+msgstr "ความยาว"
+
+msgid "light"
+msgstr "แสง"
+
+msgid "Line tool (draw lines)"
+msgstr "เครื่องมือสร้างเส้น"
+
+#, fuzzy
+msgid "List name?"
+msgstr "ชื่อรายการ?"
+
+msgid "Low"
+msgstr "ต่ำ"
+
+msgid "Lowest (smallest)"
+msgstr "ต่ำที่สุด (เล็กที่สุด)"
+
+msgid "Make a list"
+msgstr "สร้างรายการ"
+
+msgid "Make a variable"
+msgstr "สร้างตัวแปร"
+
+msgid "Max:"
+msgstr "สูงสุด:"
+
+# แม้วววววว?
+msgid "meow"
+msgstr "เหมียว"
+
+msgid "Message name:"
+msgstr "ชื่อข้อความ:"
+
+msgid "Min:"
+msgstr "ต่ำสุด:"
+
+msgid "mod"
+msgstr "หารเอาเศษ"
+
+msgid "more"
+msgstr "เพิ่มเติม"
+
+msgid "More tags:"
+msgstr "ป้ายเพิ่มเติม:"
+
+# ภาพเบลอ จะเข้าใจกับเด็กเล็กมากกว่าไหมครับ
+msgid "mosaic"
+msgstr "โมเสก"
+
+msgid "mouse x:"
+msgstr "ตำแหน่ง x ของเมาส์:"
+
+msgid "mouse y:"
+msgstr "ตำแหน่ง y ของเมาส์:"
+
+msgid "mouse-pointer"
+msgstr "ตัวชี้เมาส์"
+
+msgid "Move"
+msgstr "เคลื่อน"
+
+msgid "Music"
+msgstr "ดนตรี"
+
+msgid "new"
+msgstr "ใหม่"
+
+msgid "New"
+msgstr "ใหม่"
+
+msgid "New background:"
+msgstr "ภาพพื้นหลังใหม่:"
+
+msgid "New costume:"
+msgstr "ชุดใหม่:"
+
+msgid "New Filename:"
+msgstr "ชื่อไฟล์ใหม่:"
+
+msgid "New sound:"
+msgstr "เสียงใหม่:"
+
+msgid "New Sprite"
+msgstr "ภาพใหม่"
+
+msgid "No"
+msgstr "ไม่"
+
+msgid "No MIDI ports currently available."
+msgstr "ไม่มีช่อง MIDI ที่ใช้ได้อยู่ในขณะนี้"
+
+msgid "No motion blocks"
+msgstr "ไม่มีบล็อคเคลื่อนที่"
+
+msgid "no scripts"
+msgstr "ไม่มีสคริปต์"
+
+msgid "No serial ports found"
+msgstr "ไม่พบพอร์ต serial"
+
+msgid "No variables."
+msgstr "ไม่พบตัวแปร"
+
+msgid "Normal"
+msgstr "ปกติ"
+
+msgid "normal readout"
+msgstr ""
+
+msgid "Off"
+msgstr "ปิด"
+
+msgid "OK"
+msgstr "ตกลง"
+
+msgid "On"
+msgstr "เปิด"
+
+msgid "only face left-right"
+msgstr ""
+
+msgid "Open"
+msgstr "เปิด"
+
+msgid "Open a Scratch project"
+msgstr "เปิดโครงการ Scratch"
+
+msgid "Open Project"
+msgstr "เปิดโครงการ"
+
+msgid "or"
+msgstr "หรือ"
+
+msgid "Paint"
+msgstr "วาดภาพ"
+
+msgid "Paint Editor"
+msgstr "แก้ไขภาพ"
+
+msgid "Paint new sprite"
+msgstr "วาดภาพใหม่"
+
+msgid "Paintbrush"
+msgstr "พู่กัน"
+
+msgid "Password:"
+msgstr "รหัสผ่าน:"
+
+msgid "Percent? (100 gives original size)"
+msgstr "ร้อยละ? (100 คือขนาดเท่าจริง)"
+
+msgid "Pictures"
+msgstr "รูปภาพ"
+
+msgid "pixelate"
+msgstr ""
+
+msgid "play"
+msgstr "เล่น"
+
+msgid "Please enter a number"
+msgstr "กรุณากรอกตัวเลข"
+
+# น่าจะเป็นฟังค์ชั่นที่เรียก object สุดท้ายใน list และลบทิ้งครับ
+msgid "pop"
+msgstr ""
+
+msgid "Position the cross-hair to set the rotation center"
+msgstr "จัดตำแหน่งกากบาทเพื่อกำหนดจุดศูนย์กลางของการหมุน"
+
+msgid "Preparing project..."
+msgstr "กำลังเตรียมโครงการ..."
+
+msgid "Project author:"
+msgstr "ผู้สร้างโครงการ:"
+
+msgid "Project name"
+msgstr "ชื่อโครงการ"
+
+msgid "Project Notes"
+msgstr "บันทึกโครงการ"
+
+msgid "Project notes"
+msgstr "บันทึกโครงการ"
+
+msgid "Project uploaded."
+msgstr "โครงการอัปโหลดเรียบร้อย"
+
+msgid "Projects"
+msgstr "โครงการ"
+
+msgid "Quit"
+msgstr "ออก"
+
+msgid "Quit Scratch"
+msgstr "ออกจาก Scratch"
+
+msgid "record"
+msgstr "อัดเสียง"
+
+msgid "Record"
+msgstr "อัดเสียง"
+
+msgid "recording"
+msgstr "กำลังอัดเสียง"
+
+msgid "Rectangle tool (draw outlined or filled rectangle or square)"
+msgstr "เครื่องมือสี่เหลี่ยมผืนผ้า (วาดโครงหรือสี่เหลี่ยมที่ลงสีแล้ว ทั้งผืนผ้าและจตุรัส)"
+
+msgid "Redo"
+msgstr "ทำซ้ำ"
+
+msgid "Remove viewer from stage"
+msgstr "ลบผู้ชมออกจากฉาก"
+
+msgid "resistance"
+msgstr "ความต้านทาน"
+
+msgid "right"
+msgstr "ขวา"
+
+msgid "right arrow"
+msgstr "ลูกศรชี้ขวา"
+
+msgid "Rotate clock-wise"
+msgstr "หมุนตามเข็มนาฬิกา"
+
+msgid "Rotate counter-clock-wise"
+msgstr "หมุนทวนเข็มนาฬิกา"
+
+msgid "Rotation degrees"
+msgstr "องศาของการหมุน"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Save a copy of the current project"
+msgstr "บันทึกสำเนาโครงการปัจจุบัน"
+
+msgid "Save As"
+msgstr "บันทึกเป็น"
+
+msgid "Save failed"
+msgstr "บันทึกไม่สำเร็จ"
+
+msgid "save picture of scripts"
+msgstr "บันทึกภาพสคริปต์"
+
+msgid "save picture of stage..."
+msgstr "บันทึกภาพฉาก..."
+
+msgid "Save Project"
+msgstr "บันทึกโครงการ"
+
+msgid "Save Scripts Snapshot"
+msgstr "จับภาพสคริปต์"
+
+msgid "Save Stage Shot"
+msgstr ""
+
+msgid "Save the current project"
+msgstr ""
+
+msgid "Save the current project?"
+msgstr ""
+
+msgid "Scripts"
+msgstr ""
+
+msgid "select serial/USB port"
+msgstr ""
+
+msgid "Select tool (move, modify, or delete selection)"
+msgstr ""
+
+msgid "Set language for blocks/scripts"
+msgstr ""
+
+msgid "Set rotation center"
+msgstr ""
+
+msgid "set single stepping..."
+msgstr ""
+
+msgid "set slider min and max"
+msgstr ""
+
+msgid "Share this project online"
+msgstr ""
+
+msgid "Share!"
+msgstr ""
+
+msgid "Show project notes"
+msgstr ""
+
+msgid "show ScratchBoard watcher"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
+msgid "Shrink sprite"
+msgstr ""
+
+msgid "Single-step speed?"
+msgstr ""
+
+msgid "slider"
+msgstr ""
+
+msgid "Slider range:"
+msgstr ""
+
+msgid "Sound quality:"
+msgstr ""
+
+msgid "Sound Recorder"
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
+
+msgid "Sounds compressed"
+msgstr ""
+
+msgid "space"
+msgstr ""
+
+msgid "Sprite"
+msgstr ""
+
+msgid "sqrt"
+msgstr ""
+
+msgid "Stage"
+msgstr ""
+
+msgid "Stage selected:"
+msgstr ""
+
+msgid "Stamp tool (select area, then stamp copies of it)"
+msgstr ""
+
+msgid "Start green flag scripts"
+msgstr ""
+
+msgid "start single stepping"
+msgstr ""
+
+msgid "stop"
+msgstr ""
+
+msgid "Stop everything"
+msgstr ""
+
+msgid "stop single stepping"
+msgstr ""
+
+msgid "Switch colors"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "Text tool (edit text layer)"
+msgstr ""
+
+msgid "That variable name is already in use"
+msgstr ""
+
+msgid "The file name already exists. Overwrite existing file?"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "true"
+msgstr ""
+
+msgid "Turbo speed"
+msgstr ""
+
+msgid "turn into new sprite"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "up"
+msgstr ""
+
+msgid "up arrow"
+msgstr ""
+
+msgid "Updating thumbnails"
+msgstr ""
+
+msgid "Upload succeeded!"
+msgstr ""
+
+msgid "Upload to Scratch Server"
+msgstr ""
+
+msgid "Uploading"
+msgstr ""
+
+msgid "Variable name?"
+msgstr ""
+
+msgid "View on stage"
+msgstr ""
+
+msgid "Want Help?"
+msgstr ""
+
+msgid "whirl"
+msgstr ""
+
+msgid "write multiple project summaries"
+msgstr ""
+
+msgid "write project summary"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Your project is now online at"
+msgstr ""
+
+msgid "Your Scratch website login name:"
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+############################################
+# MIDI INSTRUMENTS
+############################################
+
+msgid "Accordion"
+msgstr ""
+
+msgid "Acoustic Bass"
+msgstr ""
+
+msgid "Acoustic Bass Drum"
+msgstr ""
+
+msgid "Acoustic Grand"
+msgstr ""
+
+msgid "Acoustic Snare"
+msgstr ""
+
+msgid "Agogo"
+msgstr ""
+
+msgid "Alto Sax"
+msgstr ""
+
+msgid "Applause"
+msgstr ""
+
+msgid "Bagpipe"
+msgstr ""
+
+msgid "Banjo"
+msgstr ""
+
+msgid "Baritone Sax"
+msgstr ""
+
+msgid "Bass Drum 1"
+msgstr ""
+
+msgid "Bassoon"
+msgstr ""
+
+msgid "Bird Tweet"
+msgstr ""
+
+msgid "Blown Bottle"
+msgstr ""
+
+msgid "Brass Section"
+msgstr ""
+
+msgid "Breath Noise"
+msgstr ""
+
+msgid "Bright Acoustic"
+msgstr ""
+
+msgid "Cabasa"
+msgstr ""
+
+msgid "Celesta"
+msgstr ""
+
+msgid "Cello"
+msgstr ""
+
+msgid "Chinese Cymbal"
+msgstr ""
+
+msgid "Choir Aahs"
+msgstr ""
+
+msgid "Church Organ"
+msgstr ""
+
+msgid "Clarinet"
+msgstr ""
+
+msgid "Claves"
+msgstr ""
+
+msgid "Clavinet"
+msgstr ""
+
+msgid "Closed Hi-Hat"
+msgstr ""
+
+msgid "Contrabass"
+msgstr ""
+
+msgid "Cowbell"
+msgstr ""
+
+msgid "Crash Cymbal 1"
+msgstr ""
+
+msgid "Crash Cymbal 2"
+msgstr ""
+
+msgid "Distortion Guitar"
+msgstr ""
+
+msgid "Drawbar Organ"
+msgstr ""
+
+msgid "Dulcimer"
+msgstr ""
+
+msgid "Electric Bass (finger)"
+msgstr ""
+
+msgid "Electric Bass (pick)"
+msgstr ""
+
+msgid "Electric Clean Guitar"
+msgstr ""
+
+msgid "Electric Grand"
+msgstr ""
+
+msgid "Electric Jazz Guitar"
+msgstr ""
+
+msgid "Electric Muted Guitar"
+msgstr ""
+
+msgid "Electric Piano 1"
+msgstr ""
+
+msgid "Electric Piano 2"
+msgstr ""
+
+msgid "Electric Snare"
+msgstr ""
+
+msgid "English Horn"
+msgstr ""
+
+msgid "FX 1 (rain)"
+msgstr ""
+
+msgid "FX 2 (soundtrack)"
+msgstr ""
+
+msgid "FX 3 (crystal)"
+msgstr ""
+
+msgid "FX 4 (atmosphere)"
+msgstr ""
+
+msgid "FX 5 (brightness)"
+msgstr ""
+
+msgid "FX 6 (goblins)"
+msgstr ""
+
+msgid "FX 7 (echoes)"
+msgstr ""
+
+msgid "FX 8 (sci-fi)"
+msgstr ""
+
+msgid "Fiddle"
+msgstr ""
+
+msgid "Flute"
+msgstr ""
+
+msgid "French Horn"
+msgstr ""
+
+msgid "Fretless Bass"
+msgstr ""
+
+msgid "Glockenspiel"
+msgstr ""
+
+msgid "Guitar Fret Noise"
+msgstr ""
+
+msgid "Guitar Harmonics"
+msgstr ""
+
+msgid "Gunshot"
+msgstr ""
+
+msgid "Hand Clap"
+msgstr ""
+
+msgid "Harmonica"
+msgstr ""
+
+msgid "Harpsichord"
+msgstr ""
+
+msgid "Helicopter"
+msgstr ""
+
+msgid "Hi Bongo"
+msgstr ""
+
+msgid "Hi Wood Block"
+msgstr ""
+
+msgid "Hi-Mid Tom"
+msgstr ""
+
+msgid "High Agogo"
+msgstr ""
+
+msgid "High Floor Tom"
+msgstr ""
+
+msgid "High Timbale"
+msgstr ""
+
+msgid "High Tom"
+msgstr ""
+
+msgid "Honky-Tonk"
+msgstr ""
+
+msgid "Kalimba"
+msgstr ""
+
+msgid "Koto"
+msgstr ""
+
+msgid "Lead 1 (square)"
+msgstr ""
+
+msgid "Lead 2 (sawtooth)"
+msgstr ""
+
+msgid "Lead 3 (calliope)"
+msgstr ""
+
+msgid "Lead 4 (chiff)"
+msgstr ""
+
+msgid "Lead 5 (charang)"
+msgstr ""
+
+msgid "Lead 6 (voice)"
+msgstr ""
+
+msgid "Lead 7 (fifths)"
+msgstr ""
+
+msgid "Lead 8 (bass+lead)"
+msgstr ""
+
+msgid "Long Guiro"
+msgstr ""
+
+msgid "Long Whistle"
+msgstr ""
+
+msgid "Low Agogo"
+msgstr ""
+
+msgid "Low Bongo"
+msgstr ""
+
+msgid "Low Conga"
+msgstr ""
+
+msgid "Low Floor Tom"
+msgstr ""
+
+msgid "Low Timbale"
+msgstr ""
+
+msgid "Low Tom"
+msgstr ""
+
+msgid "Low Wood Block"
+msgstr ""
+
+msgid "Low-Mid Tom"
+msgstr ""
+
+msgid "Maracas"
+msgstr ""
+
+msgid "Marimba"
+msgstr ""
+
+msgid "Melodic Tom"
+msgstr ""
+
+msgid "Music Box"
+msgstr ""
+
+msgid "Mute Cuica"
+msgstr ""
+
+msgid "Mute Hi Conga"
+msgstr ""
+
+msgid "Mute Triangle"
+msgstr ""
+
+msgid "Muted Trumpet"
+msgstr ""
+
+msgid "Nylon String Guitar"
+msgstr ""
+
+msgid "Oboe"
+msgstr ""
+
+msgid "Ocarina"
+msgstr ""
+
+msgid "Open Cuica"
+msgstr ""
+
+msgid "Open Hi Conga"
+msgstr ""
+
+msgid "Open Hi-Hat"
+msgstr ""
+
+msgid "Open Triangle"
+msgstr ""
+
+msgid "Orchestra Hit"
+msgstr ""
+
+msgid "Orchestral Strings"
+msgstr ""
+
+msgid "Overdriven Guitar"
+msgstr ""
+
+msgid "Pad 1 (new age)"
+msgstr ""
+
+msgid "Pad 2 (warm)"
+msgstr ""
+
+msgid "Pad 3 (polysynth)"
+msgstr ""
+
+msgid "Pad 4 (choir)"
+msgstr ""
+
+msgid "Pad 5 (bowed)"
+msgstr ""
+
+msgid "Pad 6 (metallic)"
+msgstr ""
+
+msgid "Pad 7 (halo)"
+msgstr ""
+
+msgid "Pad 8 (sweep)"
+msgstr ""
+
+msgid "Pan Flute"
+msgstr ""
+
+msgid "Pedal Hi-Hat"
+msgstr ""
+
+msgid "Percussive Organ"
+msgstr ""
+
+msgid "Piccolo"
+msgstr ""
+
+msgid "Pizzicato Strings"
+msgstr ""
+
+msgid "Recorder"
+msgstr ""
+
+msgid "Reed Organ"
+msgstr ""
+
+msgid "Reverse Cymbal"
+msgstr ""
+
+msgid "Ride Bell"
+msgstr ""
+
+msgid "Ride Cymbal 1"
+msgstr ""
+
+msgid "Ride Cymbal 2"
+msgstr ""
+
+msgid "Rock Organ"
+msgstr ""
+
+msgid "Seashore"
+msgstr ""
+
+msgid "Shakuhachi"
+msgstr ""
+
+msgid "Shamisen"
+msgstr ""
+
+msgid "Shanai"
+msgstr ""
+
+msgid "Short Guiro"
+msgstr ""
+
+msgid "Short Whistle"
+msgstr ""
+
+msgid "Side Stick"
+msgstr ""
+
+msgid "Sitar"
+msgstr ""
+
+msgid "Slap Bass 1"
+msgstr ""
+
+msgid "Slap Bass 2"
+msgstr ""
+
+msgid "Soprano Sax"
+msgstr ""
+
+msgid "Splash Cymbal"
+msgstr ""
+
+msgid "Steel Drums"
+msgstr ""
+
+msgid "Steel String Guitar"
+msgstr ""
+
+msgid "String Ensemble 1"
+msgstr ""
+
+msgid "String Ensemble 2"
+msgstr ""
+
+msgid "Synth Bass 1"
+msgstr ""
+
+msgid "Synth Bass 2"
+msgstr ""
+
+msgid "Synth Drum"
+msgstr ""
+
+msgid "Synth Voice"
+msgstr ""
+
+msgid "SynthBrass 1"
+msgstr ""
+
+msgid "SynthBrass 2"
+msgstr ""
+
+msgid "SynthStrings 1"
+msgstr ""
+
+msgid "SynthStrings 2"
+msgstr ""
+
+msgid "Taiko Drum"
+msgstr ""
+
+msgid "Tambourine"
+msgstr ""
+
+msgid "Tango Accordion"
+msgstr ""
+
+msgid "Telephone Ring"
+msgstr ""
+
+msgid "Tenor Sax"
+msgstr ""
+
+msgid "Timpani"
+msgstr ""
+
+msgid "Tinkle Bell"
+msgstr ""
+
+msgid "Tremolo Strings"
+msgstr ""
+
+msgid "Trombone"
+msgstr ""
+
+msgid "Trumpet"
+msgstr ""
+
+msgid "Tuba"
+msgstr "แตรใหญ่"
+
+msgid "Tubular Bells"
+msgstr "ระฆังราว"
+
+msgid "Vibraphone"
+msgstr "ไวปราโฟน"
+
+msgid "Vibraslap"
+msgstr ""
+
+msgid "Viola"
+msgstr "วิโอลา"
+
+msgid "Violin"
+msgstr "ไวโอลิน"
+
+msgid "Voice Oohs"
+msgstr ""
+
+msgid "Whistle"
+msgstr "เสียงเป่า"
+
+msgid "Woodblock"
+msgstr "เครื่องตี"
+
+msgid "Xylophone"
+msgstr "ไซโลโฟน"
